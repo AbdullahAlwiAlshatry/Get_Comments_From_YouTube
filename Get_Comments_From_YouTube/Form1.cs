@@ -148,11 +148,10 @@ namespace Get_Comments_From_YouTube
                 }
 
                 AllReplies = allComments_;
+                SetDataListBox(VideoPlayGround);
+                Cursor = Cursors.Default;
             }
             else { MessageBox.Show("قم بعمل رابط يوتيوب صحيح"); }
-
-            SetDataListBox(VideoPlayGround);
-            Cursor = Cursors.Default;
         }
 
 
