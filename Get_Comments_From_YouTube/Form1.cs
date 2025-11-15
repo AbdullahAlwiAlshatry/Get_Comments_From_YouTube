@@ -63,10 +63,11 @@ namespace Get_Comments_From_YouTube
                 TopOrBottom();
                 if (listBox1.Items.Count != 0) { listBox1.SelectedIndex = 0; }
         }
+       
         void GetDataFromGoolgeApi()
         {
             Cursor = Cursors.No;
-            
+
             Video = null;
             VideoPlayGround = null;
             AllReplies = null;
@@ -80,7 +81,7 @@ namespace Get_Comments_From_YouTube
                 string videoId = match.Groups[1].Value;
                 List<Item> allComments = new List<Item>();
                 string nextPageToken = null;
-
+                try {
                 do
                 {
                     string url = $"https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId={videoId}&maxResults=100&order=time&key={apiKey}";
@@ -151,10 +152,13 @@ namespace Get_Comments_From_YouTube
                 SetDataListBox(VideoPlayGround);
                 Cursor = Cursors.Default;
             }
+                catch
+                {
+                    MessageBox.Show("حدث خطأ / قم بالأتصال بالأنترنت"); 
+                }
+            }
             else { MessageBox.Show("قم بعمل رابط يوتيوب صحيح"); }
         }
-
-
 
 
 
