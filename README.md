@@ -1,41 +1,48 @@
-YouTube Comment Extraction Tool
+ <div dir="rtl" align="right">
 
-A software project written in C#, designed to extract and programmatically manipulate comments from YouTube videos.
+# Get Comments From YouTube
 
-📌 About the Project
+### أداة استخراج تعليقات YouTube
 
-The Get Comments From YouTube project provides a programmatic way to access and extract YouTube video comments, eliminating the need to manually manage them through the platform's interface.
+مشروع برمجي مكتوب بلغة **C#**، يهدف إلى استخراج التعليقات من مقاطع فيديو YouTube والتعامل معها برمجياً.
 
-This project targets those interested in collecting and utilizing comment data in software applications and data processing.
+---
 
-🛠️ Technologies Used
+## 📌 نبذة عن المشروع
 
-C#
+يأتي مشروع **Get Comments From YouTube** لتوفير وسيلة برمجية للوصول إلى تعليقات مقاطع YouTube واستخراجها، بدلاً من التعامل معها يدوياً من خلال واجهة المنصة.
 
-.NET (version determined by project settings)
+يستهدف المشروع المهتمين بجمع بيانات التعليقات والاستفادة منها في التطبيقات البرمجية ومعالجة البيانات.
 
-Visual Studio
+## 🛠️ التقنيات المستخدمة
 
-Git / GitHub
+**C#** |
+**.NET** (يُحدد الإصدار وفق إعدادات المشروع) |
+**Visual Studio** |
+**Git / GitHub** |
 
-📂 Project Structure
+## 📂 بنية المشروع
 
-The repository contains the software solution files, the project folder, and associated packages.
+يحتوي المستودع على ملفات الحل البرمجي ومجلد المشروع والحزم المرتبطة به.
 
-🚀 Get the project
+## 🚀 الحصول على المشروع
 
-You can download the project from GitHub:
+يمكنك تحميل المشروع من خلال GitHub:
 
-Download the repository
+[تحميل المستودع](https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube)
 
-Or clone it using the command:
+أو استنساخه باستخدام الأمر:
 
+```bash
 git clone https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube.git
+```
 
-👨‍💻 Developer
+## 👨‍💻 المطور
 
-Abdullah Alawi Alshateri
+**Abdullah Alawi Alshateri**
 
-📦 GitHub Repository
+## 📦 GitHub Repository
 
-Get_Comments_From_YouTube
+[Get_Comments_From_YouTube](https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube)
+
+</div>
