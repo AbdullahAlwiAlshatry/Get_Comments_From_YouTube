@@ -1,4 +1,18 @@
-<img src="https://raw.githubusercontent.com/AbdullahAlwiAlshatry/Cafe/main/wwwroot/images/1.gif" alt="Cafe Logo" width="220">
+ <div align="center">
+
+# ☕ Cafe Management & Online Ordering System
+
+### A Modern Web Application for Cafe Operations and Online Ordering
+
+<img src="https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube/blob/master/Pictures%20Project/0_RjycuvCHOmNiI8fd.gif?raw=true" alt="Cafe Logo" width="220">
+
+**Designed to simplify cafe operations and provide customers with a convenient ordering experience.**
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-.NET%2010-purple?logo=dotnet)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+</div>
  <div dir="rtl" align="right">
 
 # Get Comments From YouTube
