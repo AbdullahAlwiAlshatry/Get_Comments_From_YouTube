@@ -9,6 +9,7 @@
 **صُممت لتبسيط عمليات البحث والفلترة وجعلها أكثر دقة وتزويد المستخدم بكافة البيانات الصحيحة المتوفرة.**
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube)
+![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-0078D4)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-.NET%2010-purple?logo=dotnet)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
