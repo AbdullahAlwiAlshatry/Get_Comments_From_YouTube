@@ -1,12 +1,12 @@
  <div align="center">
 
-# ☕ Cafe Management & Online Ordering System
+# 📼 YouTube comment extraction system
 
-### A Modern Web Application for Cafe Operations and Online Ordering
+### تطبيق سطح مكتب يمكنك من البحث عن ما تريد !!
 
-<img src="https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube/blob/master/Pictures%20Project/0_RjycuvCHOmNiI8fd.gif?raw=true" alt="Cafe Logo" width="220">
+<img src="https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube/blob/master/Pictures%20Project/0_RjycuvCHOmNiI8fd.gif?raw=true" alt="YouTube-Kids" width="220">
 
-**Designed to simplify cafe operations and provide customers with a convenient ordering experience.**
+**صُممت لتبسيط عمليات البحث والفلترة وجعلها أكثر دقة وتزويد المستخدم بكافة البيانات الصحيحة المتوفرة.**
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AbdullahAlwiAlshatry/Get_Comments_From_YouTube)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-.NET%2010-purple?logo=dotnet)](https://dotnet.microsoft.com/)
